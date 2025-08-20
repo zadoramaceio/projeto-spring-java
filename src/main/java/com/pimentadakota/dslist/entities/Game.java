@@ -1,4 +1,4 @@
-package entities;
+package com.pimentadakota.dslist.entities;
 
 import jakarta.persistence.*;
 
